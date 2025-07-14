@@ -30,6 +30,16 @@
 
 ---
 
+### 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/kevaldekivadiya2415/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevaldekivadiya2415&bg_color=00000000&color=A0A0A0&line=A0A0A0&point=A0A0A0&hide_border=true" alt="Activity Graph" width="95%" />
+  </a>
+</p>
+
+---
+
 ### 📌 Pinned Projects
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kevaldekivadiya2415&repo=TextEmbed&theme=vue&hide_border=true)](https://github.com/kevaldekivadiya2415/TextEmbed)
